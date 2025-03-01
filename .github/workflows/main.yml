@@ -4,40 +4,35 @@ on:
   pull_request:
     branches:
       - main
-    types: [opened, synchronize]  # Запуск при открытии PR или обновлении (push в ветку PR)
+    types: [opened, synchronize]  
 
 permissions:
-  contents: write  # Права на запись в репозиторий
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository with the PR branch
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}  # Используем ветку PR, а не main
+          ref: ${{ github.head_ref }}
 
-      # Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
-      # Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install pyyaml
 
-      # Run the generation script
       - name: Generate localization files
         run: |
           python3 Scripts/generate_localizations.py
 
-      # Commit and push generated files to the PR branch
       - name: Commit generated files
         run: |
           git config --local user.email "action@github.com"
