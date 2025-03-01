@@ -132,6 +132,7 @@ public enum RSKey {
         case instagramBadges
         case logOut
         case managePersonalData
+        case navigationTitle
         case navigationTitleEditProfile
         case navigationTitleProfile
         case notification
