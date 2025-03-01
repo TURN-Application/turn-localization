@@ -1,6 +1,10 @@
 sourceLanguage: "en"
 version: "1.0"
 strings:
+  navigationTitle:
+    en: "My Profile"
+    ru: "Профиль"
+    uk: "Профіль"
   darkMode:
     en: "Dark Mode"
     ru: "Темный режим"
