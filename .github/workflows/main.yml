@@ -1,18 +1,24 @@
 name: Generate Localizations
 
 on:
-  push:
+  pull_request:
     branches:
       - main
+    types: [opened, synchronize]  # Запуск при открытии PR или обновлении (push в ветку PR)
+
+permissions:
+  contents: write  # Права на запись в репозиторий
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
+      # Checkout the repository with the PR branch
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}  # Используем ветку PR, а не main
 
       # Set up Python environment
       - name: Set up Python
@@ -31,12 +37,12 @@ jobs:
         run: |
           python3 Scripts/generate_localizations.py
 
-      # Commit and push all changed files
+      # Commit and push generated files to the PR branch
       - name: Commit generated files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add iOS/Sources/RSKey.swift iOS/Resources/*.xcstrings
+          git add Localization/*.yaml iOS/Sources/RSKey.swift iOS/Resources/*.xcstrings
           git commit -m "Auto-generate localization files" || echo "No changes to commit"
           git push
         env:
