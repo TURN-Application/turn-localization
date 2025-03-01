@@ -2,7 +2,7 @@ sourceLanguage: "en"
 version: "1.0"
 strings:
   navigationTitle:
-    en: "My Profile"
+    en: "Profile"
     ru: "Профиль"
     uk: "Профіль"
   darkMode:
