@@ -1,0 +1,71 @@
+sourceLanguage: "en"
+version: "1.0"
+strings:
+  ctaButtonTitle:
+    en: "Next"
+    ru: "Далее"
+    uk: "Далі"
+  ctaButtonTitleLast:
+    en: "Get Started"
+    ru: "Начать"
+    uk: "Розпочати"
+  notificationCTATitle:
+    en: "Enable Notifications"
+    ru: "Включить уведомления"
+    uk: "Увімкнути сповіщення"
+  notificationMainBody:
+    en: "Stay updated with the latest features and tips."
+    ru: "Будьте в курсе последних функций и советов."
+    uk: "Будьте в курсі останніх функцій і порад."
+  notificationMainTitle:
+    en: "Turn on Notifications"
+    ru: "Включите уведомления"
+    uk: "Увімкніть сповіщення"
+  notificationSkipButton:
+    en: "Skip"
+    ru: "Пропустить"
+    uk: "Пропустити"
+  notificationViewBody:
+    en: "We’ll notify you about important updates."
+    ru: "Мы уведомим вас о важных обновлениях."
+    uk: "Ми сповістимо вас про важливі оновлення."
+  notificationViewTitle:
+    en: "Stay Connected"
+    ru: "Оставайтесь на связи"
+    uk: "Залишайтеся на зв’язку"
+  oneBadgeTitle:
+    en: "Step 1"
+    ru: "Шаг 1"
+    uk: "Крок 1"
+  oneDescTitle:
+    en: "Explore the App"
+    ru: "Исследуйте приложение"
+    uk: "Досліджуйте додаток"
+  oneFullTitle:
+    en: "Discover how to create amazing content."
+    ru: "Узнайте, как создавать потрясающий контент."
+    uk: "Дізнайтесь, як створювати чудовий контент."
+  threeBadgeTitle:
+    en: "Step 3"
+    ru: "Шаг 3"
+    uk: "Крок 3"
+  threeDescTitle:
+    en: "Start Creating"
+    ru: "Начните создавать"
+    uk: "Почніть створювати"
+  threeFullTitle:
+    en: "Plan and publish your first post."
+    ru: "Спланируйте и опубликуйте свой первый пост."
+    uk: "Заплануйте та опублікуйте свій перший пост."
+  twoBadgeTitle:
+    en: "Step 2"
+    ru: "Шаг 2"
+    uk: "Крок 2"
+  twoDescTitle:
+    en: "Set Up Your Profile"
+    ru: "Настройте свой профиль"
+    uk: "Налаштуйте свій профіль"
+  twoFullTitle:
+    en: "Customize your account to get started."
+    ru: "Настройте свой аккаунт, чтобы начать."
+    uk: "Налаштуйте свій акаунт, щоб розпочати."

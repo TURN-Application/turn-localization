@@ -1,0 +1,1040 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "featureListHeaderTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What you get 👇"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Что вы получаете 👇"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Що ви отримуєте 👇"
+          }
+        }
+      }
+    },
+    "featureListItemDescFour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Write down your post concepts, then add photos and descriptions."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Запишите идею публикации, затем добавьте фото и описания."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Запишіть ідею публікації, згодом додайте фото та описи."
+          }
+        }
+      }
+    },
+    "featureListItemDescOne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create different visual styles for your account."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Создавайте разные визуальные стили для своего аккаунта."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Створюйте різні візуальні стилі для свого облікового запису."
+          }
+        }
+      }
+    },
+    "featureListItemDescThree": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schedule your posts in advance for active and thoughtful content."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Запланируйте публикации заранее для активного и продуманного контента."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заздалегідь заплануйте публікації для активного та продуманого контенту."
+          }
+        }
+      }
+    },
+    "featureListItemDescTwo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effortlessly manage and switch between multiple profiles in one app."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Легко управляйте несколькими профилями и переключайтесь между ними в одном приложении."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Легко керуйте кількома профілями та перемикайтеся між ними в одному застосунку."
+          }
+        }
+      }
+    },
+    "featureListItemTitleFour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capture Your Ideas"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Записывайте Свои Идеи"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зберігайте Свої Ідеї"
+          }
+        }
+      }
+    },
+    "featureListItemTitleOne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create Various Visuals"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Создавайте Разнообразные Визуалы"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Створюйте Різноманітні Візуали"
+          }
+        }
+      }
+    },
+    "featureListItemTitleThree": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scheduled Posting"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Запланированное Размещение"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заплановане Розміщення"
+          }
+        }
+      }
+    },
+    "featureListItemTitleTwo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Multi-Account Management"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Управление Несколькими Акаунтами"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Управління Кількома Акаунтами"
+          }
+        }
+      }
+    },
+    "month": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "then .99/month (save 20%)"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "затем ,99 в месяц"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "потім ,99 на місяць"
+          }
+        }
+      }
+    },
+    "pricingLabelTitlePartOne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "First 14 days free,"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Первые 14 дней бесплатно,"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Перші 14 днів безкоштовно,"
+          }
+        }
+      }
+    },
+    "promotionDesc": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elevate Your Profile's Success with Quality Content"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Повышайте успех вашего профиля с качественным контентом"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покращте успіх свого Профілю за допомогою створення Якісного Контенту"
+          }
+        }
+      }
+    },
+    "promotionTitlePartFour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Results"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Результаты"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Результати"
+          }
+        }
+      }
+    },
+    "promotionTitlePartOne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smart"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Восхитетельный"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Продуманий"
+          }
+        }
+      }
+    },
+    "promotionTitlePartThree": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Performance"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отличные"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Успішні"
+          }
+        }
+      }
+    },
+    "promotionTitlePartTwo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Content"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Контент"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Контент"
+          }
+        }
+      }
+    },
+    "restorePurchaseButtonTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore Purchase"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Восстановить покупку"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Відновити покупку"
+          }
+        }
+      }
+    },
+    "screenTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How your free trial works"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Как работает ваш бесплатный пробный период"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Як працює безкоштовна пробна версія"
+          }
+        }
+      }
+    },
+    "segmentControlTitleOne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monthly"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ежемесячно"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Щомісячно"
+          }
+        }
+      }
+    },
+    "segmentControlTitleTwo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annually"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ежегодно"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Щорічно"
+          }
+        }
+      }
+    },
+    "startTrialButtonTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start my free trial"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Начать бесплатный пробный период"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Розпочати пробний період"
+          }
+        }
+      }
+    },
+    "stepIconViewAccessDesc": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Access all premium features, including unlimited accounts and visuals."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Получите доступ ко всем премиум-функциям, включая неограниченное количество аккаунтов и визуализаций."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отримайте доступ до всіх преміум-функцій, включаючи необмежену кількість облікових записів і візуалів."
+          }
+        }
+      }
+    },
+    "stepIconViewAccessTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сегодня"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сьогодні"
+          }
+        }
+      }
+    },
+    "stepIconViewNotificationDesc": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We’ll remind you that your trial is coming to an end soon."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мы напомним вам, что ваш пробный период скоро закончится."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ми нагадаємо вам, що ваш пробний період скоро завершується."
+          }
+        }
+      }
+    },
+    "stepIconViewNotificationTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In 12 days"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Через 12 дней"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Через 12 днів"
+          }
+        }
+      }
+    },
+    "stepIconViewPaymentDescPartOne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your subscription will start at .99/month (or .99/year), but you can"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша подписка начнется с ,99 в месяц (или ,99 в год), но вы можете"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша підписка починатиметься від ,99/місяць (або ,99/рік), але ви можете"
+          }
+        }
+      }
+    },
+    "stepIconViewPaymentDescPartThree": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "before."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "подписку."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "підписку."
+          }
+        }
+      }
+    },
+    "stepIconViewPaymentDescPartTwo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "cancel anytime"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "отменить в любое время"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "будь-коли скасувати "
+          }
+        }
+      }
+    },
+    "stepIconViewPaymentTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In 14 days"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Через 14 дней"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Через 14 днів"
+          }
+        }
+      }
+    },
+    "testimonial1": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN has completely transformed how I plan my content 🔥"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN полностью изменил мой подход к планированию контента 🔥"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN повністю змінив мій погляд на планування контенту 🔥"
+          }
+        }
+      }
+    },
+    "testimonial1AuthorName": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alex"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Алексей"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Олексій"
+          }
+        }
+      }
+    },
+    "testimonial1AuthorTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Social Media Manager"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Менеджер социальных медиа"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Менеджер соціальних медіа"
+          }
+        }
+      }
+    },
+    "testimonial1Description": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The easy-to-use grid planner and the ability to manage multiple accounts in one place save me so much time. Plus, the feature to jot down ideas and build posts later is a game-changer! I can't imagine my Instagram strategy without it now."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Легкий в использовании планировщик и возможность управлять несколькими аккаунтами в одном месте экономит мне так много времени. Плюс, функция записывать идеи и создавать посты позже - это настоящая находка! Я не могу представить свою стратегию в Instagram без этого."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Легкий у використанні планувальник у формі сітки та можливість керувати кількома акаунтами в одному місці економить мені стільки часу. Плюс, функція записувати ідеї та пізніше створювати пости – це революційно! Тепер я не уявляю свою стратегію Instagram без цього."
+          }
+        }
+      }
+    },
+    "testimonial2": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN makes content planning a breeze!"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN делает планирование контента легким!"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN робить планування контенту простим!"
+          }
+        }
+      }
+    },
+    "testimonial2AuthorName": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emma"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сабина"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сабіна"
+          }
+        }
+      }
+    },
+    "testimonial2AuthorTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Content Creator"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Власниця квіткової студії"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Власниця квіткової студії"
+          }
+        }
+      }
+    },
+    "testimonial2Description": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I can experiment with different visuals and plan my posts in advance, all in one app. It’s my secret weapon for a consistent and visually appealing feed."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Я могу экспериментировать с разными визуальными элементами и заранее планировать свои посты, все в одном приложении. Это мое секретное оружие для последовательного и визуально привлекательного визуала."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Я можу експериментувати з різними візуальними елементами та планувати свої пости заздалегідь, все в одному додатку. Це моя секретна зброя для послідовної та візуально привабливої стрічки."
+          }
+        }
+      }
+    },
+    "testimonial3": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN is my go-to tool for social media planning 🎯"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN - мой основной инструмент для планирования социальных медиа 🎯"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN - мій основний інструмент для планування соціальних медіа 🎯"
+          }
+        }
+      }
+    },
+    "testimonial3AuthorName": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daniel"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Даниил"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Данило"
+          }
+        }
+      }
+    },
+    "testimonial3AuthorTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Digital Marketer"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цифровой маркетолог"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Цифровий маркетолог"
+          }
+        }
+      }
+    },
+    "testimonial3Description": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Managing content across different platforms has never been easier. I love the intuitive interface and how everything just flows. It’s become an essential part of my workflow!"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Управлять контентом на разных платформах никогда не было так легко. Мне нравится интуитивно понятный интерфейс и как все просто. Это стало необходимой частью моего рабочего процесса!"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Керувати контентом на різних платформах ніколи не було так легко. Мені подобається інтуїтивно зрозумілий інтерфейс і те, як все просто вписується. Це стало невід'ємною частиною мого робочого процесу!"
+          }
+        }
+      }
+    },
+    "testimonial4": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fantastic tool for organizing Instagram content!"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фантастический инструмент для организации контента в Instagram!"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фантастичний інструмент для організації контенту в Instagram!"
+          }
+        }
+      }
+    },
+    "testimonial4AuthorName": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sophie"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "София"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Софія"
+          }
+        }
+      }
+    },
+    "testimonial4AuthorTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Influencer"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Инфлюенсер"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Інфлюенсер"
+          }
+        }
+      }
+    },
+    "testimonial4Description": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TURN’s visual calendar lets me see my content at a glance and adjust my strategy quickly. I recommend it to anyone serious about their Instagram presence."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Визуальный календарь TURN позволяет мне быстро увидеть свой контент и быстро скорректировать стратегию. Я рекомендую его всем, кто серьезно относится к своему присутствию в Instagram."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Візуальний календар TURN дозволяє мені з першого погляду бачити свій контент і швидко коригувати стратегію. Я рекомендую його всім, хто серйозно ставиться до своєї присутності в Instagram."
+          }
+        }
+      }
+    },
+    "testimonialsHeaderTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tested by 250+ Instagram management professionals 💪"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тестировано более чем 250 профессионалами по управлению Instagram 💪"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тестовано понад 250 професіоналами з управління Instagram 💪"
+          }
+        }
+      }
+    },
+    "year": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "then .99/year (save 33%)"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "затем ,99 в год"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "потім ,99 на рік"
+          }
+        }
+      }
+    }
+  }
+}

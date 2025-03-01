@@ -1,0 +1,171 @@
+sourceLanguage: "en"
+version: "1.0"
+strings:
+  forgotPassordTitle:
+    en: "Forgot Password?"
+    ru: "Забыли пароль?"
+    uk: "Забули пароль?"
+  loginButtonAppleTitle:
+    en: "Continue with Apple"
+    ru: "Продолжить с Apple"
+    uk: "Продовжити з Apple"
+  loginButtonEmailTitle:
+    en: "Continue with Email"
+    ru: "Продолжить с Email"
+    uk: "Продовжити з Email"
+  loginButtonFacebookTitle:
+    en: "Continue with Facebook"
+    ru: "Продолжить с Facebook"
+    uk: "Продовжити з Facebook"
+  loginButtonGoogleTitle:
+    en: "Continue with Google"
+    ru: "Продолжить с Google"
+    uk: "Продовжити з Google"
+  loginExploreButtonTitle:
+    en: "Explore the app"
+    ru: "Продолжить без регистрации"
+    uk: "Продовжити без реєстрації"
+  loginMainLabel:
+    en: "Planning is easy. With Turn."
+    ru: "Планирование просто. С Turn."
+    uk: "Планувати легко. З Turn."
+  signInCTATitle:
+    en: "Log in"
+    ru: "Ввойти"
+    uk: "Увійти"
+  signInFieldPlaceholderEmail:
+    en: "Enter your email"
+    ru: "Введите свою почту"
+    uk: "Введіть свою пошту"
+  signInFieldPlaceholderPassword:
+    en: "Enter your password"
+    ru: "Введите свой пароль"
+    uk: "Введіть свій пароль"
+  signInFieldTitleEmail:
+    en: "Email"
+    ru: "Электронная почта"
+    uk: "Електронна пошта"
+  signInFieldTitlePassword:
+    en: "Password"
+    ru: "Пароль"
+    uk: "Пароль"
+  signInNavigationTitle:
+    en: "Log in"
+    ru: "Войти"
+    uk: "Увійти"
+  signInTextViewFirstPart:
+    en: "Don't have an account?"
+    ru: "До сих пор нет аккаунта?"
+    uk: "Ще досі немає акаунту?"
+  signInTextViewSecondPart:
+    en: "Create account"
+    ru: "Создать"
+    uk: "Створити"
+  signUpCTATitle:
+    en: "Continue"
+    ru: "Продолжить"
+    uk: "Продовжити"
+  signUpFieldPlaceholderEmail:
+    en: "marcopolo@gmail.com"
+    ru: "marcopolo@gmail.com"
+    uk: "marcopolo@gmail.com"
+  signUpFieldPlaceholderPassword:
+    en: "●●●●●●●●"
+    ru: "●●●●●●●●"
+    uk: "●●●●●●●●"
+  signUpFieldTitleEmail:
+    en: "Email"
+    ru: "Электронная почта"
+    uk: "Електронна пошта"
+  signUpFieldTitleName:
+    en: "Name"
+    ru: "Имя"
+    uk: "Ім'я"
+  signUpFieldTitlePassword:
+    en: "Password"
+    ru: "Пароль"
+    uk: "Пароль"
+  signUpNavigationTitle:
+    en: "Create Account"
+    ru: "Создать аккаунт"
+    uk: "Створити акаунт"
+  signUpPlaceholderName:
+    en: "Paulo"
+    ru: "Пауло"
+    uk: "Пауло"
+  signUpTextViewFirstPart:
+    en: "Already have an account?"
+    ru: "Уже есть аккаунт?"
+    uk: "Вже є акаунт?"
+  signUpTextViewSecondPart:
+    en: "Log in"
+    ru: "Войти"
+    uk: "Увійти"
+  emailInvalidFormat:
+    en: "This doesn't look like a valid email. Please check the format."
+    ru: "Это не похоже на действительный адрес электронной почты. Пожалуйста, проверьте формат."
+    uk: "Це не виглядає як дійсна електронна адреса. Будь ласка, перевірте формат."
+  emailEmpty:
+    en: "This field cannot be empty. Please enter your email address."
+    ru: "Это поле не может быть пустым. Пожалуйста, введите свой адрес электронной почты."
+    uk: "Це поле не може бути порожнім. Будь ласка, введіть свою електронну адресу."
+  passwordContainsName:
+    en: "Password cannot contain your name. Please choose a different password."
+    ru: "Пароль не может содержать ваше имя. Пожалуйста, выберите другой пароль."
+    uk: "Пароль не може містити ваше ім'я. Будь ласка, виберіть інший пароль."
+  passwordRequirementsNotMet:
+    en: "Password must be at least 8 characters long, include at least one uppercase letter, and contain at least one digit."
+    ru: "Пароль должен содержать не менее 8 символов, включая как минимум одну заглавную букву и как минимум одну цифру."
+    uk: "Пароль має бути не менше 8 символів, містити хоча б одну велику літеру та хоча б одну цифру."
+  passwordEmpty:
+    en: "Password cannot be empty. Please enter your password."
+    ru: "Пароль не может быть пустым. Пожалуйста, введите свой пароль."
+    uk: "Пароль не може бути порожнім. Будь ласка, введіть свій пароль."
+  nameInvalidFormat:
+    en: "Name is not valid. Please check your input."
+    ru: "Имя недействительно. Пожалуйста, проверьте поле ввода."
+    uk: "Будь ласка, перевірте правильність введених данних."
+  nameEmpty:
+    en: "Name cannot be empty. Please enter your name or nickname."
+    ru: "Имя не может быть пустым. Пожалуйста, введите свое имя или никнейм."
+    uk: "Ім'я не може бути порожнім. Будь ласка, введіть своє ім'я або нікнейм."
+  resetPasswordNavigationTitle:
+    en: "Reset Password"
+    ru: "Сброс пароля"
+    uk: "Відновлення паролю"
+  resetPasswordFieldTitle:
+    en: "Email"
+    ru: "Электронная почта"
+    uk: "Електронна пошта"
+  resetPasswordFieldPlaceholder:
+    en: "example@gmail.com"
+    ru: "example@gmail.com"
+    uk: "example@gmail.com"
+  resetPasswordTip:
+    en: "We will send you a link to reset your password."
+    ru: "Мы отправим вам ссылку для сброса пароля."
+    uk: "Ми надішлемо вам посилання для скидання паролю."
+  resetPasswordCtaButtonTitle:
+    en: "Send"
+    ru: "Отправить"
+    uk: "Надіслати"
+  selectNameNavigationTitle:
+    en: "What is your name?"
+    ru: "Как вас зовут?"
+    uk: "Як вас звати?"
+  selectNameFieldTitle:
+    en: "Name"
+    ru: "Имя"
+    uk: "Ім'я"
+  selectNameFieldPlaceholder:
+    en: "Enter your name"
+    ru: "Введите ваше имя"
+    uk: "Введіть ваше ім'я"
+  selectNameTip:
+    en: "We will know how to contact you in emails and notifications."
+    ru: "Мы будем знать, как связаться с вами в письмах и уведомлениях."
+    uk: "Ми будемо знати, як зв'язатися з вами в листах та сповіщеннях."
+  selectNameCtaButtonTitle:
+    en: "Save"
+    ru: "Сохранить"
+    uk: "Зберегти"
