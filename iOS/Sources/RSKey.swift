@@ -60,7 +60,7 @@ public enum RSKey {
     public enum Login: String, LocalizableKey {
         case emailEmpty
         case emailInvalidFormat
-        case forgotPassordTitle
+        case forgotPasswordTitle
         case loginButtonAppleTitle
         case loginButtonEmailTitle
         case loginButtonFacebookTitle

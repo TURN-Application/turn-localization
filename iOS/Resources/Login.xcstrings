@@ -46,7 +46,7 @@
         }
       }
     },
-    "forgotPassordTitle": {
+    "forgotPasswordTitle": {
       "localizations": {
         "en": {
           "stringUnit": {
