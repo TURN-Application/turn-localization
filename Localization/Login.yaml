@@ -1,7 +1,7 @@
 sourceLanguage: "en"
 version: "1.0"
 strings:
-  forgotPassordTitle:
+  forgotPasswordTitle:
     en: "Forgot Password?"
     ru: "Забыли пароль?"
     uk: "Забули пароль?"
