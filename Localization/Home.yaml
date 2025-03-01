@@ -1,0 +1,19 @@
+sourceLanguage: "en"
+version: "1.0"
+strings:
+  calendarHeader:
+    en: "Calendar"
+    ru: "Календарь"
+    uk: "Календар"
+  createHeader:
+    en: "Create"
+    ru: "Создать"
+    uk: "Створити"
+  getProItem:
+    en: "Get PRO"
+    ru: "Получить PRO"
+    uk: "Отримати ПРО"
+  visualsHeader:
+    en: "Visuals"
+    ru: "Визуалы"
+    uk: "Візуали"

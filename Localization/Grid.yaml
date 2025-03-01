@@ -1,0 +1,43 @@
+sourceLanguage: "en"
+version: "1.0"
+strings:
+  drafts:
+    en: "Drafts"
+    ru: "Черновики"
+    uk: "Чернетки"
+  hidden:
+    en: "Hidden"
+    ru: "Скрытые"
+    uk: "Приховані"
+  menuItemTitleFive:
+    en: "Empty row"
+    ru: "Пустая строка"
+    uk: "Порожній рядок"
+  menuItemTitleFour:
+    en: "Empty cell"
+    ru: "Пустая ячейка"
+    uk: "Порожня комірка"
+  menuItemTitleOne:
+    en: "Post"
+    ru: "Пост"
+    uk: "Пост"
+  menuItemTitleThree:
+    en: "Idea cell"
+    ru: "Идея"
+    uk: "Ідея"
+  menuItemTitleTwo:
+    en: "Reel"
+    ru: "Рил"
+    uk: "Ріл"
+  prepared:
+    en: "Prepared"
+    ru: "Подготовленные"
+    uk: "Підготовлені"
+  scheduled:
+    en: "Scheduled"
+    ru: "Запланированные"
+    uk: "Заплановані"
+  selectAll:
+    en: "Select all"
+    ru: "Выбрать все"
+    uk: "Обрати все"

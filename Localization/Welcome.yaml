@@ -1,0 +1,31 @@
+sourceLanguage: "en"
+version: "1.0"
+strings:
+  body:
+    en: "Effortlessly plan content, create stunning visuals, and manage multiple Instagram accounts—all in one app."
+    ru: "Легко планируйте контент, создавайте потрясающие визуалы и управляйте несколькими аккаунтами Instagram — всё в одном приложении."
+    uk: "Легко плануйте контент, створюйте приголомшливі візуали та керуйте кількома обліковими записами Instagram — усе в одній програмі."
+  ctaButtonTitle:
+    en: "Get started"
+    ru: "Начать"
+    uk: "Розпочати"
+  descPartOne:
+    en: "By continuing you agree to our"
+    ru: "Продолжая, вы соглашаетесь с нашими"
+    uk: "Продовжуючи, ви погоджуєтесь з нашими"
+  descPartTwo:
+    en: "and"
+    ru: "и"
+    uk: "та"
+  privacyPolicy:
+    en: "Privacy Policy"
+    ru: "Политикой конфиденциальности"
+    uk: "Політикою конфіденційності"
+  termsOfService:
+    en: "Terms of Service"
+    ru: "Условиями использования"
+    uk: "Умовами обслуговування"
+  title:
+    en: "Welcome to Turn"
+    ru: "Добро пожаловать в Turn"
+    uk: "Вітаємо в Turn"
