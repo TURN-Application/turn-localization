@@ -156,6 +156,28 @@
         }
       }
     },
+    "navigationTitle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profile"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Профиль"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Профіль"
+          }
+        }
+      }
+    },
     "navigationTitleEditProfile": {
       "localizations": {
         "en": {
