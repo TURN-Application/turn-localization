@@ -129,6 +129,7 @@ public enum RSKey {
         case editProfileDeleteAccount
         case editProfileSave
         case faq
+        case getProAccount
         case instagramBadges
         case logOut
         case managePersonalData

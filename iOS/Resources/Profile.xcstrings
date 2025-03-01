@@ -90,6 +90,28 @@
         }
       }
     },
+    "getProAccount": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get a Pro Account"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Получить Pro-аккаунт"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отримати Pro-акаунт"
+          }
+        }
+      }
+    },
     "instagramBadges": {
       "localizations": {
         "en": {
