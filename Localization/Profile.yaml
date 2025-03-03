@@ -1,58 +1,6 @@
 sourceLanguage: "en"
 version: "1.0"
 strings:
-  navigationTitle:
-    en: "Profile"
-    ru: "Профиль"
-    uk: "Профіль"
-  darkMode:
-    en: "Dark Mode"
-    ru: "Темный режим"
-    uk: "Темний режим"
-  notification:
-    en: "Notification"
-    ru: "Уведомления"
-    uk: "Сповіщення"
-  instagramBadges:
-    en: "Instagram Badges"
-    ru: "Значки Instagram"
-    uk: "Значки Instagram"
-  privacyPolicy:
-    en: "Privacy Policy"
-    ru: "Политика конфиденциальности"
-    uk: "Політика конфіденційності"
-  termsOfUse:
-    en: "Terms of use"
-    ru: "Условия использования"
-    uk: "Умови використання"
-  faq:
-    en: "FAQ"
-    ru: "Часто задаваемые вопросы"
-    uk: "Часті питання"
-  rateApp:
-    en: "Rate App"
-    ru: "Оценить приложение"
-    uk: "Оцініть додаток"
-  managePersonalData:
-    en: "Manage Personal Data"
-    ru: "Управление персональными данными"
-    uk: "Управління персональними даними"
-  logOut:
-    en: "Log Out"
-    ru: "Выйти"
-    uk: "Вийти"
-  navigationTitleProfile:
-    en: "My Profile"
-    ru: "Мой профиль"
-    uk: "Мій профіль"
-  navigationTitleEditProfile:
-    en: "Edit Profile"
-    ru: "Редактировать профиль"
-    uk: "Редагувати профіль"
-  editProfileSave:
-    en: "Save"
-    ru: "Сохранить"
-    uk: "Зберегти"
   editProfileDeleteAccount:
     en: "Delete account"
     ru: "Удалить аккаунт"
@@ -61,3 +9,11 @@ strings:
     en: "Get a Pro Account"
     ru: "Получить Pro-аккаунт"
     uk: "Отримати Pro-акаунт"
+  newAccount:
+    en: "New Account"
+    ru: "Новый аккаунт"
+    uk: "Новий акаунт"
+  title:
+    en: "Profile"
+    ru: "Профиль"
+    uk: "Профіль"
