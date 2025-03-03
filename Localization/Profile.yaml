@@ -1,0 +1,15 @@
+sourceLanguage: "en"
+version: "1.0"
+strings:
+  editProfileDeleteAccount:
+    en: "Delete account"
+    ru: "Удалить аккаунт"
+    uk: "Видалити акаунт"
+  getProAccount:
+    en: "Get a Pro Account"
+    ru: "Получить Pro-аккаунт"
+    uk: "Отримати Pro-акаунт"
+  newAccount:
+    en: "New Account"
+    title:
+    en: "Profile"
