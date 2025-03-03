@@ -57,7 +57,3 @@ strings:
     en: "Delete account"
     ru: "Удалить аккаунт"
     uk: "Видалити акаунт"
-  getProAccount:
-    en: "Get a Pro Account"
-    ru: "Получить Pro-аккаунт"
-    uk: "Отримати Pro-акаунт"
