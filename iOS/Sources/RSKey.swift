@@ -7,6 +7,7 @@
 //
 
 public enum RSKey {
+    case common(Common)
     case grid(Grid)
     case home(Home)
     case login(Login)
@@ -18,6 +19,8 @@ public enum RSKey {
 
     func wrappedValue() -> LocalizableKey {
         switch self {
+        case .common(let wrappedValue):
+            wrappedValue
         case .grid(let wrappedValue):
             wrappedValue
         case .home(let wrappedValue):
@@ -35,6 +38,11 @@ public enum RSKey {
         case .welcome(let wrappedValue):
             wrappedValue
         }
+    }
+
+    // MARK: - Common.xstrings
+    public enum Common: String, LocalizableKey {
+        case delete
     }
 
     // MARK: - Grid.xstrings
