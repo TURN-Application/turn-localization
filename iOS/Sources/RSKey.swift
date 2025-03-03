@@ -128,7 +128,6 @@ public enum RSKey {
 
     // MARK: - Profile.xstrings
     public enum Profile: String, LocalizableKey {
-        case editProfileDeleteAccount
         case getProAccount
         case newAccount
         case title

@@ -2,28 +2,6 @@
   "sourceLanguage": "en",
   "version": "1.0",
   "strings": {
-    "editProfileDeleteAccount": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete account"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Удалить аккаунт"
-          }
-        },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Видалити акаунт"
-          }
-        }
-      }
-    },
     "getProAccount": {
       "localizations": {
         "en": {
