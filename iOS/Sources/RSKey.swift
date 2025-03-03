@@ -12,6 +12,7 @@ public enum RSKey {
     case login(Login)
     case onboarding(Onboarding)
     case profile(Profile)
+    case settings(Settings)
     case trial(Trial)
     case welcome(Welcome)
 
@@ -26,6 +27,8 @@ public enum RSKey {
         case .onboarding(let wrappedValue):
             wrappedValue
         case .profile(let wrappedValue):
+            wrappedValue
+        case .settings(let wrappedValue):
             wrappedValue
         case .trial(let wrappedValue):
             wrappedValue
@@ -125,11 +128,18 @@ public enum RSKey {
 
     // MARK: - Profile.xstrings
     public enum Profile: String, LocalizableKey {
+        case editProfileDeleteAccount
+        case getProAccount
+        case newAccount
+        case title
+    }
+
+    // MARK: - Settings.xstrings
+    public enum Settings: String, LocalizableKey {
         case darkMode
         case editProfileDeleteAccount
         case editProfileSave
         case faq
-        case getProAccount
         case instagramBadges
         case logOut
         case managePersonalData
