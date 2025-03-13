@@ -17,3 +17,15 @@ strings:
     en: "Visuals"
     ru: "Визуалы"
     uk: "Візуали"
+  gotIdea:
+    en: "Got Idea?"
+    ru: "Есть идея?"
+    uk: "Є ідея?"
+  save:
+    en: "Save"
+    ru: "Сохранить"
+    uk: "Зберегти"
+  cancel:
+    en: "Cancel"
+    ru: "Отменить"
+    uk: "Скасувати"

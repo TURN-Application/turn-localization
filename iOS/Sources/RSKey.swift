@@ -62,8 +62,11 @@ public enum RSKey {
     // MARK: - Home.xstrings
     public enum Home: String, LocalizableKey {
         case calendarHeader
+        case cancel
         case createHeader
         case getProItem
+        case gotIdea
+        case save
         case visualsHeader
     }
 
