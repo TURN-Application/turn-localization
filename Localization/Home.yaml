@@ -29,3 +29,11 @@ strings:
     en: "Cancel"
     ru: "Отменить"
     uk: "Скасувати"
+  userButtonPrompt:
+    en: "Link your Instagram account and easily import your photos"
+    ru: "Привяжите свой аккаунт Instagram и легко импортируйте свои фотографии"
+    uk: "Прив'яжіть свій обліковий запис Instagram та легко імпортуйте свої фотографії"
+  newVisualPrompt:
+    en: "Create your first visual grid and start planning your posts"
+    ru: "Создайте свою первую визуальную сетку и начните планировать свои посты"
+    uk: "Створіть свою першу візуальну сітку та почніть планувати свої пости"

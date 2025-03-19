@@ -66,7 +66,9 @@ public enum RSKey {
         case createHeader
         case getProItem
         case gotIdea
+        case newVisualPrompt
         case save
+        case userButtonPrompt
         case visualsHeader
     }
 
