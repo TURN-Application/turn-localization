@@ -112,6 +112,28 @@
         }
       }
     },
+    "newVisualPrompt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create your first visual grid and start planning your posts"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Создайте свою первую визуальную сетку и начните планировать свои посты"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Створіть свою першу візуальну сітку та почніть планувати свої пости"
+          }
+        }
+      }
+    },
     "save": {
       "localizations": {
         "en": {
@@ -130,6 +152,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "Зберегти"
+          }
+        }
+      }
+    },
+    "userButtonPrompt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link your Instagram account and easily import your photos"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Привяжите свой аккаунт Instagram и легко импортируйте свои фотографии"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Прив'яжіть свій обліковий запис Instagram та легко імпортуйте свої фотографії"
           }
         }
       }
